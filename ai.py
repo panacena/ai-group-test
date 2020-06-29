@@ -1,3 +1,3 @@
 import pymysql
 def test():
-    print 'test'
+    print 'test ai'
